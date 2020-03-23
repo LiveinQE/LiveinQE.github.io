@@ -1,0 +1,14 @@
+Package: com.QE.iOS9-icons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LiveinQE<liveinqe@qq.com>
+Filename: debs/com.qe.ios9-icons.deb
+Size: 162560
+MD5sum: 88220fea9b8ac8550f119415e0621099
+SHA1: a5fc537971449b9a2966df862fd048526152bf30
+SHA256: 2413f7a218c53fb38a220d7196b19cb138e8b51049b63bc756d6ce81ee336e5a
+Section: Themes
+Description: Extract from iOS9.3.2
+Author: Apple
+Name: Icons of iOS9
+

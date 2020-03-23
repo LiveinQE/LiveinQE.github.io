@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+rm -rf Packages Packages.bz2
+sleep 1
+dpkg-scanpackages -m debs /dev/null > Packages
+sleep 1
+bzip2 -k Packages Packages.bz2
+sleep 1
+exit 0
